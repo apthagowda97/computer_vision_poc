@@ -1,4 +1,2 @@
 # computer_vision_poc
 This repo consist of computer vision methods implemented using Pytorch.
-
-#add readme text here
